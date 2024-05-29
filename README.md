@@ -3,10 +3,10 @@
 
 - 📫 Мои контакты:  <a href="https://t.me/maxim_seregin" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="40" height="40"/>
-</a>,      
-<a href="mailto:makasika47@gmail.com" target="_blank">
+</a>,       <a href="mailto:makasika47@gmail.com" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" width="40" height="40"/>
 </a>
+(makasika47@gmail.com)
 
 
 <h3 align="left">Connect with me:</h3>
