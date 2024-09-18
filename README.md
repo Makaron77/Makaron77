@@ -28,4 +28,6 @@
   <li><a href="https://github.com/Vtalcom/JourneyCamp">Сайт для путешественников, с построением маршрутов, админ панелью, регистрацией и возможностью бронирования мест отдыха на всем маршруте сразу(fullstack)</a></li>
   <li><a href="https://github.com/Ketark/SocksShop">Сайт для продажи носков, с генератором на подобии "Все майки"(fullstack)</a></li>
    <li><a href="https://github.com/Makaron77/Test-2">Туду лист(fullstack)</a></li>
+    <li><a href="https://github.com/Makaron77/core-react-weather">Прогноз погоды API</a></li>
+  
 </ul>
