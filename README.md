@@ -29,5 +29,5 @@
   <li><a href="https://github.com/Ketark/SocksShop">Сайт для продажи носков, с генератором на подобии "Все майки"(fullstack)</a></li>
    <li><a href="https://github.com/Makaron77/Test-2">Туду лист(fullstack)</a></li>
     <li><a href="https://github.com/Makaron77/core-react-weather">Прогноз погоды API</a></li>
-    <li><a href="[https://github.com/Makaron77/core-react-weather](https://github.com/Makaron77/Testovoe-)">Тестовое задание1</a></li>  
+    <li><a href="https://github.com/Makaron77/Testovoe-">Тестовое задание1</a></li>  
 </ul>
